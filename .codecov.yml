@@ -2,12 +2,8 @@ codecov:
   notify:
     require_ci_to_pass: no
 
-comment:
-  layout: "reach, diff"
-  behavior: default
-
 coverage:
-  range: 50..80
+  range: 1110..80
   round: down
   precision: 0
 
